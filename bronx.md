@@ -8,3 +8,8 @@ Servir dans un verre old-fashioned avec des glaçons et décoré d'un zeste d'or
 1.5	cl	vermouth rouge (liqueur de vin)
 3	cl	gin (dry)
 
+ETAPE 1
+
+ETAPE 2
+
+ETAPE 3
