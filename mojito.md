@@ -2,9 +2,8 @@
 
 ## Ingrédients
 
-* Ingrédient 1 en OZ
-* Ingrédient 2 en OZ
-
+* Ingrédient 1 
+* Ingrédient 2 
 ## Détails
 
 Faire ceci, cela et le reste...
