@@ -1,4 +1,4 @@
-# Faire un Bronx
+# Schtroumpfer un Bronx
 
 ## Ingrédients
 
@@ -7,6 +7,6 @@
 
 ## Détails
 
-Faites ceci, cela et le reste...
+Schtroumpfez ceci, cela et le reste...
 
-Mais attention de ne pas oublier ceci cela
+Mais attention de ne pas Schtroumpfer ceci cela.
