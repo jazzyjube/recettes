@@ -1,15 +1,10 @@
-## Recette de Bronx
+# Faire un Bronx
 
-Frapper les ingrédients dans un shaker avec des glaçons.
-Servir dans un verre old-fashioned avec des glaçons et décoré d'un zeste d'orange.
+## Ingrédients
 
-6	cl	jus d'orange
-1.5	cl	vermouth blanc (liqueur de vin)
-1.5	cl	vermouth rouge (liqueur de vin)
-3	cl	gin (dry)
+* Ingrédient 1
+* Ingrédient 2
 
-ETAPE 1
+## Détails
 
-ETAPE 2
-
-ETAPE 3
+Faites ceci, cela et le reste...
