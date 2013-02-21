@@ -2,8 +2,8 @@
 
 ## Ingrédients
 
-* Ingrédient 1
-* Ingrédient 2
+* Ingrédient 1 en OZ
+* Ingrédient 2 en OZ
 
 ## Détails
 
